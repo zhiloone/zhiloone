@@ -1,4 +1,6 @@
-### Hi there 👋
+### Leonardo Fonseca Rodrigues
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zhiloone)](https://git.io/streak-stats)
 
 <!--
 **zhiloone/zhiloone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
