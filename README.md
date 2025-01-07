@@ -1,5 +1,5 @@
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zhiloone&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=zhiloone)](https://git.io/streak-stats)
 
  <hr/>
 
