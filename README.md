@@ -1,6 +1,9 @@
 <div align="center">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiloone&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zhiloone&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
+
  <hr/>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiloone&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
